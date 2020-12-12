@@ -13,6 +13,8 @@ In the *second step* you will have two windows each one for a user , and you wil
 
 ![pjj](https://user-images.githubusercontent.com/61421882/101989255-682a4780-3c9f-11eb-93fa-09dcc1222f35.png)
 
+![pjj2](https://user-images.githubusercontent.com/61421882/101989261-6fe9ec00-3c9f-11eb-89b7-b386302ac60f.png)
+
 
 
 
