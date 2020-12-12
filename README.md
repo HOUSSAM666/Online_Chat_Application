@@ -15,6 +15,8 @@ In the *second step* you will have two windows each one for a user , and you wil
 
 ![pjj2](https://user-images.githubusercontent.com/61421882/101989261-6fe9ec00-3c9f-11eb-89b7-b386302ac60f.png)
 
+![pjj3](https://user-images.githubusercontent.com/61421882/101989264-74aea000-3c9f-11eb-9d7c-cba5d47f43ed.png)
+
 
 
 
