@@ -1,2 +1,4 @@
-Projet Java APPLICATION CHAT ONLINE 
+Projet Java Application Chat Online.
+
+HOUSSAM MESBAH /  CHAIMA ELBAZ  /  GHILMANE FATIMAZAHRA
 
