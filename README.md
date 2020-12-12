@@ -11,6 +11,9 @@ It's an **online Chat application** that allows you to **chat** with another use
 
 In the *second step* you will have two windows each one for a user , and you will have a text space where you can write your **messages** and a **Send** button that send your messages to the other user.
 
+![pjj](https://user-images.githubusercontent.com/61421882/101989255-682a4780-3c9f-11eb-93fa-09dcc1222f35.png)
+
+
 
 
 
